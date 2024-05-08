@@ -18,5 +18,5 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 ## Author
 Klarisse Pareja Loren
 
-##License
+## License
 This project is licensed under the Klarisse Loren License 
